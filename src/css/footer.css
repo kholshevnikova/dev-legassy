@@ -4,7 +4,7 @@
   border-radius: 24px 24px 0 0;
   background: #1b414b;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0px;
 }
 .footer-wrap {
   padding: 40px 30px 20px 30px;
@@ -12,7 +12,10 @@
 .navigation {
   display: flex;
   gap: 37px;
+  margin: 0 auto;
   margin-bottom: 80px;
+  width: 295px;
+  
 }
 
 .footer-menu-social {
@@ -153,6 +156,7 @@ span {
   }
   .navigation {
     margin-bottom: 96px;
+    width: 100%;
   }
   .footer-menu {
     margin-left: 100px;
